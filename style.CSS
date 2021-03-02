@@ -1,0 +1,20 @@
+/* Universal Selector*/
+*{
+    text-align: center;
+  }
+/* Type Selector*/
+html {
+    background-color: rgb(238, 192, 202);
+  }
+p{
+    color:rgb(46, 1, 77);
+}
+h3{
+    color: rgb(39, 3, 73);
+}
+h1{
+    color:rgb(39, 3, 73)
+}
+h4{
+    color:rgb(39, 3, 73)
+}
